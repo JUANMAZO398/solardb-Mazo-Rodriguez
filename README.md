@@ -3,7 +3,7 @@
 **Curso:** Bases de Datos I (SD1006) · **Grupo:** 811 · **Semestre:** 2026-II
 **Docente:** Ramiro Grisales Montoya · **Institución:** Institución Universitaria Pascual Bravo
 
-**Integrante: Juan José Mazo Rodríguez
+Juan José Mazo Rodríguez
 
 > An idempotent ETL pipeline that loads simulated IoT telemetry into a governed PostgreSQL repository, versioned on GitHub.
 
